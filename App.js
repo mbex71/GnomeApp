@@ -1,8 +1,10 @@
 import React from 'react';
 import Appcontainer from './navigations/Appcontainer'
+import {Root} from 'native-base'
 const App = () => {
   return (
-    <Appcontainer/>
+      <Appcontainer/>
+
   )
   }
 export default App;

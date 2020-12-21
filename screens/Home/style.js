@@ -23,7 +23,8 @@ const style = StyleSheet.create({
     informationTitle:{
         fontSize:22,
         color:'#fff',
-        marginVertical:10
+        marginVertical:10,
+        fontFamily:'Raleway-Regular'
     },
     informationContainer:{
         alignItems:'flex-start'
